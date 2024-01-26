@@ -2,9 +2,9 @@
 
 defined('IN_CODE') or die('This script can not be run by itself.');
 
-class ColdWarVariant extends WDVariant {
-	public $id         = 91;
-	public $mapID      = 91;
+class TamrielVarient extends WDVariant {
+	public $id         = 100;
+	public $mapID      = 100;
 	public $name       = 'Tamriel';
 	public $fullName   = 'Tamriel 4E 202';
 	public $description= 'New 6 player yr 202 Tamriel varient of Diplomacy!';

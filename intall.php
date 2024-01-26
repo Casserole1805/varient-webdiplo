@@ -1,5 +1,5 @@
 <?php
-// This is file installs the map data for the ColdWar variant
+// This is file installs the map data for the Tamriel variant
 defined('IN_CODE') or die('This script can not be run by itself.');
 require_once("variants/install.php");
 

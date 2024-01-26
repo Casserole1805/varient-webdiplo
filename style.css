@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+.variantTamriel .country0 { color: #A2A2A2 ! important; } /* Global */
+.variantTamriel .country1 { color: #FF85A1 ! important; } /* Cyrodiil */
+.variantTamriel .country2 { color: #C4FF85 ! important; } /* Aldmeri Dominion */
+.variantTamriel .country3 { color: #FFD085 ! important; } /* Hammerfell */
+.variantTamriel .country4 { color: #62A3FF ! important; } /* Highrock */
+.variantTamriel .country5 { color: #88F5BB ! important; } /* Argonia */
+.variantTamriel .country6 { color: #9982FF ! important; } /* Morrowind */
+
+
+.variantTamriel .occupationBar1 { background-color: #FF85A1; } /* Cyrodiil */
+.variantTamriel .occupationBar2 { background-color: #C4FF85; } /* Aldmeri Dominion */
+.variantTamriel .occupationBar3 { background-color: #FFD085; } /* Hammerfell */
+.variantTamriel .occupationBar4 { background-color: #62A3FF; } /* Highrock */
+.variantTamriel .occupationBar5 { background-color: #88F5BB; } /* Argonia */
+.variantTamriel .occupationBar6 { background-color: #9982FF; } /* Morrowind */

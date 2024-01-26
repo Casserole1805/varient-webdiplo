@@ -5,13 +5,13 @@ defined('IN_CODE') or die('This script can not be run by itself.');
 class TamrielVariant_drawMap extends drawMap {
 
 	protected $countryColors = array(
-		0 => array(226, 198, 158), // Neutral
-		1 => array(160,   1,  31), // USSR
-		2 => array(1,    92, 135), // NATO
-		3 => array(160,   1,  31), // USSR
-		4 => array(1,    92, 135), // NATO
-		5 => array(160,   1,  31), // USSR
-		6 => array(1,    92, 135), // NATO
+		0 => array(162, 162, 162), // Neutral
+		1 => array(255, 133, 161), // Cyrodiil
+		2 => array(196, 255, 133), // Aldmeri Dominion
+		3 => array(255, 208, 133), // Hammerfell
+		4 => array(98, 163, 255), // Highrock
+		5 => array(136, 245, 187), // Argonia
+		6 => array(153, 130, 255), // Morrowind
 	);
 
 	protected function resources() {
